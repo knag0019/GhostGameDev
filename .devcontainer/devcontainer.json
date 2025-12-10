@@ -1,5 +1,5 @@
 {
-  "name": "GhostGame Dev",
+  "name": "GhostGameDev",
   "build": { 
     "dockerfile": "Dockerfile", 
     "context": ".." 
